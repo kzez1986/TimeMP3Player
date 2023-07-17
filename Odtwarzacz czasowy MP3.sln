@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odtwarzacz czasowy MP3", "Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3.csproj", "{24220485-5E72-4E3C-831E-9B6D28601F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Debug|x86.ActiveCfg = Debug|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Debug|x86.Build.0 = Debug|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Release|Any CPU.ActiveCfg = Release|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Release|x86.ActiveCfg = Release|x86
+		{24220485-5E72-4E3C-831E-9B6D28601F7D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

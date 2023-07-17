@@ -1,0 +1,17 @@
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\bin\Debug\Odtwarzacz czasowy MP3.exe
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\bin\Debug\Odtwarzacz czasowy MP3.pdb
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\Odtwarzacz_czasowy_MP3.Form1.resources
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\Odtwarzacz_czasowy_MP3.Properties.Resources.resources
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\Odtwarzacz czasowy MP3.exe
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\Odtwarzacz czasowy MP3.pdb
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\Odtwarzacz czasowy MP3.csproj.ResolveComReference.cache
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\bin\Debug\Interop.WMPLib.dll
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\bin\Debug\AxInterop.WMPLib.dll
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\bin\Debug\Odtwarzacz czasowy MP3.exe.config
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\jakub\documents\visual studio 2010\Projects\Odtwarzacz czasowy MP3\Odtwarzacz czasowy MP3\obj\x86\Debug\ResGen.write.1.tlog
